@@ -1,0 +1,22 @@
+print("Ketik 1 untuk menghitung penjumlahan")
+print("Ketik 2 untuk menghitung pengurangan")
+print("Ketik 3 untuk menghitung perkalian")
+print("Ketik 4 untuk menghitung pembagian")
+print("Ketik 5 untuk menghitung sisa hasil bagi(modulus")
+print("Ketik 6 untuk menghitung pemangkatan")
+pilihan = 1
+pilihan <=5
+
+
+
+# 1 = +
+# 2 = -
+# 3 = *
+# 4 = %
+# 5 = /
+# 6 = **
+
+# anda = (input("masukkan pilihan anda: "))
+# pertama = (input("masukkan bilangan pertama: "))
+# kedua = (input("masukkan bilangan kedua: "))
+# if (anda)
