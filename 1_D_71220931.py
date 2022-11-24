@@ -19,4 +19,10 @@ elif a == 3 :
 elif a == 4 :
     jumlah = b/c
     print("hasil dari",b,"dibagi dengan",c,"adalah",jumlah)
+elif a == 5 :
+    jumlah = b%c
+    print("hasil dari",b,"modulo dari",c,"adalah",jumlah)
+elif a == 6 :
+    jumlah = b**c
+    print("hasil dari",b,"pangkat dengan",c,"adalah",jumlah)
     
